@@ -2,7 +2,10 @@
   "name": "control-modifier-keys",
   "version": "1.0.0",
   "license": "MIT",
-  "respository": "VanBerlo/control-modifier-keys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VanBerlo/control-modifier-keys.git"
+  },
   "description": "Control Caps, Num & Scroll lock from NodeJS",
   "main": "src/index.js",
   "author": {
