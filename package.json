@@ -1,12 +1,23 @@
 {
   "name": "control-modifier-keys",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/VanBerlo/control-modifier-keys.git"
   },
   "description": "Control Caps, Num & Scroll lock from NodeJS",
+  "keywords": [
+    "modifiers",
+    "modifier keys",
+    "modifier state",
+    "capslock",
+    "toggle capslock",
+    "capslock state",
+    "numlock",
+    "scrolllock",
+    "windows"
+  ],
   "main": "src/index.js",
   "author": {
     "name": "Bart Versteeg // VanBerlo",
