@@ -16,7 +16,9 @@
     "capslock state",
     "numlock",
     "scrolllock",
-    "windows"
+    "windows",
+    "nodejs",
+    "electron"
   ],
   "main": "src/index.js",
   "author": {
